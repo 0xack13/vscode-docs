@@ -30,6 +30,9 @@ To stay current with the Extension API, you can review the monthly release notes
 
 ## What can extensions do?
 
+dfdfdf
+
+
 Here are some examples of what you can achieve with the Extension API:
 
 - Change the look of VS Code with a color or icon theme - [Theming](/api/extension-capabilities/theming)
